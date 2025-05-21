@@ -1,15 +1,50 @@
-## Hi there 👋
+# 👋 Hello! I'm Fahim-Bin-Feroz
 
-**fahim-bin-feroz/fahim-bin-feroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Trainee at ISDB-BISEW IT Scholarship Programme**  
+💻 Passionate Full Stack .NET Developer in Training | Focused on Real-World Application Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tech Stack & Tools
 
+- ⚙️ Languages: `C#`, `SQL`, `JavaScript`, `TypeScript`
+- 🌐 Web: `ASP.NET Core MVC`, `Entity Framework`, `REST APIs`
+- 🧠 Front-End: `HTML5`, `CSS3`, `Bootstrap`, `Angular`, `React`
+- 🗄️ Database: `SQL Server`, `Stored Procedures`, `LINQ`
+- 🧰 Tools: `Visual Studio`, `VS Code`, `Git`, `GitHub`
+
+---
+
+### 📚 Currently Learning
+
+- Advanced ASP.NET Core (API & Identity)
+- Modern React & Angular (with Hooks and RxJS)
+- Software Architecture & Clean Code Practices
+
+---
+
+### 📂 Featured Projects
+
+> ✅ You can explore my GitHub repositories for:
+- CRUD Applications using ASP.NET Core MVC
+- Single Page Applications (SPA) with Angular/React
+- SQL Database Scripts (DDL & DML)
+- Mini Projects submitted as part of my course
+
+---
+
+### 🎯 Career Goal
+
+As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to become a proficient full stack .NET Developer who builds scalable, efficient, and user-friendly applications.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [[LinkedIn](https://www.linkedin.com/in/fahimbinferoz)]  
+- 📧 fahimbinferoz@gmail.com  
+- 🌐 Portfolio (coming soon)
+
+---
+
+_Thank you for visiting my GitHub profile!_ 🚀
