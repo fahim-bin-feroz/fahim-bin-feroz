@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Fahim-Bin-Feroz
+# 👋 Hello! This is Fahim-Bin-Feroz
 
 🎓 **Trainee at ISDB-BISEW IT Scholarship Programme**  
 💻 Passionate Full Stack .NET Developer in Training | Focused on Real-World Application Development
