@@ -71,4 +71,7 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
 
 ---
 
-<p align="center"><i>Thank you for visiting my GitHub profile! 🚀</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fahim-Bin-Feroz&color=blue" alt="Fahim-Bin-Feroz" />
+  <br><i>Thank you for visiting my GitHub profile! 🚀</i>
+</p>
