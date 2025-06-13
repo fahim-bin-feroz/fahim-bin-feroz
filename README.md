@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! This is Fahim-Bin-Feroz</h1>
+<h1 align="center">👋 Hello! This is Fahim Bin Feroz</h1>
 
 🎓 Trainee at <strong>ISDB-BISEW IT Scholarship Programme</strong>  
 💻 Passionate Full Stack .NET Developer in Training | Focused on Real-World Application Development
