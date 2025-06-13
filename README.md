@@ -57,8 +57,7 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
 ## 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/)  
-- 📧 fahimbinferoz@gmail.com  
-- 🌐 Portfolio (coming soon)
+- 📧 fahimbinferoz@gmail.com
 
 ---
 
@@ -73,5 +72,5 @@ As a trainee under the **ISDB-BISEW IT Scholarship Programme**, my mission is to
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fahim-Bin-Feroz&color=blue" alt="Fahim-Bin-Feroz" />
-  <br><i>Thank you for visiting my GitHub profile! 🚀</i>
+  <br><i>Thank you for visiting my profile! 🚀</i>
 </p>
